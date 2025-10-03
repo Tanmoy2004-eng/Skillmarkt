@@ -17,7 +17,7 @@ const certificates: Certificate[] = [
   {
     title: 'B.Tech Certificate',
     price: '₹699',
-    formLink: 'https://forms.gle/test123',
+    formLink: 'https://rb.gy/gmy5n5',
     color: 'from-cyan-500 to-blue-500',
     gradientFrom: 'cyan',
     gradientTo: 'blue',
@@ -25,7 +25,7 @@ const certificates: Certificate[] = [
   {
     title: 'B.Arch Certificate',
     price: '₹729',
-    formLink: 'https://forms.gle/test456',
+    formLink: 'https://rb.gy/gmy5n5',
     color: 'from-violet-500 to-purple-500',
     gradientFrom: 'violet',
     gradientTo: 'purple',
@@ -33,7 +33,7 @@ const certificates: Certificate[] = [
   {
     title: 'B.Pharm Certificate',
     price: '₹729',
-    formLink: 'https://forms.gle/test789',
+    formLink: 'https://rb.gy/gmy5n5',
     color: 'from-pink-500 to-rose-500',
     gradientFrom: 'pink',
     gradientTo: 'rose',
