@@ -16,7 +16,7 @@ interface Certificate {
 const certificates: Certificate[] = [
   {
     title: 'B.Tech Certificate',
-    price: '₹699',
+    price: '₹729',
     formLink: 'https://rb.gy/gmy5n5',
     color: 'from-cyan-500 to-blue-500',
     gradientFrom: 'cyan',
