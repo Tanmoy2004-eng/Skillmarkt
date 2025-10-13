@@ -15,7 +15,7 @@ interface Certificate {
 
 const certificates: Certificate[] = [
   {
-    title: 'B.Tech Certificate(for Hons)',
+    title: 'B.Tech Certificate (for Hons)',
     price: '₹729',
     formLink: 'https://shorturl.at/a7x2T',
     color: 'from-cyan-500 to-blue-500',
@@ -23,7 +23,7 @@ const certificates: Certificate[] = [
     gradientTo: 'blue',
   },
   {
-    title: 'B.Arch Certificate(for Hons)',
+    title: 'B.Arch Certificate (for Hons)',
     price: '₹729',
     formLink: 'https://shorturl.at/a7x2T',
     color: 'from-violet-500 to-purple-500',
@@ -31,7 +31,7 @@ const certificates: Certificate[] = [
     gradientTo: 'purple',
   },
   {
-    title: 'B.Pharm Certificate(for Hons)',
+    title: 'B.Pharm Certificate (for Hons)',
     price: '₹729',
     formLink: 'https://shorturl.at/a7x2T',
     color: 'from-pink-500 to-rose-500',
